@@ -25,3 +25,7 @@ Nope.
 [1.0.1] - 16-09-2021
 ### Changed
 - .json file icon updated
+
+[1.0.2] - 16-09-2021
+### Changed
+- README.md cover image updated
