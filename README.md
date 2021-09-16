@@ -1,7 +1,7 @@
 # make-things-and-smile-icons README
 
 A really cool icon theme we made for you.
-![Cover](https://github.com/caelicarp/make-things-and-smile-theme/images/logo.png)
+![Cover](https://github.com/caelicarp/make-things-and-smile-theme/images/cover.jpg)
 
 ## Features
 - This is a colorful icon theme that tries to be simple and agreeable at the same time.
@@ -12,8 +12,8 @@ A really cool icon theme we made for you.
 Nope.
 
 ## Release Notes
-
 - Initial release of makeThingsAndSmile Icon Theme extension.
+
 [1.0.0] - 16-09-2021
 ### Added
 - 32 icons added
@@ -21,3 +21,7 @@ Nope.
   - Graphics: .jpg, .png, .gif, .svg.
   - Programming: C, C++, C#, HTML, CSS, Javascript, Typescript, Json, Java, PHP, Git.
   - Specific programs: Adobe Illustrator, Adobe Photoshop, Microsoft Office Word, PowerPoint and Excel.
+
+[1.0.1] - 16-09-2021
+### Changed
+- .json file icon updated

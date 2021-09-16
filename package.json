@@ -1,8 +1,8 @@
 {
 	"name": "make-things-and-smile-icons",
-	"displayName": "makeThingsAndSmile Icons",
+	"displayName": "Make Things and Smile Icons",
 	"description": "A really cool icon theme we made for you.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "caelicarp",
 	"author": {
 		"email": "caelicarp@gmail.com",
@@ -44,8 +44,8 @@
 		"commands": [],
 		"iconThemes": [
 			{
-				"id": "makeThingsAndSmile",
-				"label": "makeThingsAndSmile Icon Theme",
+				"id": "make-things-and-smile",
+				"label": "Make Things and Smile Icon Theme",
 				"path": "./make-things-for-smile-setIconTheme.json"
 			}
 		]
