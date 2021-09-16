@@ -38,7 +38,7 @@
 		"*"
 	],
 	"homepage": "https://github.com/caelicarp/make-things-and-smile-theme",
-	"icon": "https://github.com/caelicarp/make-things-and-smile-theme/images/logo.jpg",
+	"icon": "./images/logo.jpg",
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [],
