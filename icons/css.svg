@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcfcfc;
+      }
+
+      .cls-2 {
+        fill: #ccc;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #41c6ef;
+        stroke-miterlimit: 10;
+        stroke-width: 160px;
+      }
+
+      .cls-4 {
+        fill: #41c6ef;
+      }
+    </style>
+  </defs>
+  <title>css</title>
+  <g id="Capa_1" data-name="Capa 1">
+    <path class="cls-1" d="M771.88,962.12h-520a120,120,0,0,1-120-120v-660a120,120,0,0,1,120-120h520a120,120,0,0,1,120,120v660A120,120,0,0,1,771.88,962.12Z"/>
+    <path class="cls-2" d="M806,512.12c0,26-22.5,47.2-50,47.2H267.78c-27.5,0-50-21.3-50-47.2s22.5-47.3,50-47.3H756C783.48,464.82,806,486.12,806,512.12Z"/>
+    <path class="cls-2" d="M806,715.72c0,26-22.5,47.3-50,47.3H267.78c-27.5,0-50-21.3-50-47.3s22.5-47.3,50-47.3H756C783.48,668.42,806,689.72,806,715.72Z"/>
+    <path class="cls-2" d="M806,308.52c0,26-22.5,47.3-50,47.3H267.78c-27.5,0-50-21.3-50-47.3s22.5-47.3,50-47.3H756C783.48,261.32,806,282.52,806,308.52Z"/>
+  </g>
+  <g id="Capa_2" data-name="Capa 2">
+    <circle class="cls-3" cx="699.42" cy="703.94" r="160.85"/>
+    <g>
+      <rect class="cls-4" x="618.02" y="391.76" width="162.8" height="162.8" rx="60"/>
+      <rect class="cls-4" x="618.02" y="853.31" width="162.8" height="162.8" rx="60"/>
+    </g>
+    <g>
+      <rect class="cls-4" x="817.88" y="737.92" width="162.8" height="162.8" rx="60" transform="matrix(-0.5, 0.87, -0.87, -0.5, 2058.47, 450.19)"/>
+      <rect class="cls-4" x="418.17" y="507.15" width="162.8" height="162.8" rx="60" transform="translate(1259.05 450.19) rotate(120)"/>
+    </g>
+    <g>
+      <rect class="cls-4" x="418.17" y="737.92" width="162.8" height="162.8" rx="60" transform="translate(959.34 -22.98) rotate(60)"/>
+      <rect class="cls-4" x="817.88" y="507.15" width="162.8" height="162.8" rx="60" transform="translate(959.34 -484.52) rotate(60)"/>
+    </g>
+  </g>
+</svg>

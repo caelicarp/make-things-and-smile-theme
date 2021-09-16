@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: #33b1ff;
+      }
+
+      .cls-1 {
+        stroke-width: 120px;
+      }
+
+      .cls-2 {
+        fill: #33b1ff;
+      }
+
+      .cls-3 {
+        stroke: #ff574a;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 100px;
+      }
+    </style>
+  </defs>
+  <title>java_1</title>
+  <g id="Capa_2" data-name="Capa 2">
+    <line class="cls-1" x1="162" y1="920.3" x2="862" y2="920.3"/>
+    <path class="cls-2" d="M212,369.35H812a0,0,0,0,1,0,0V751.78a120,120,0,0,1-120,120H332a120,120,0,0,1-120-120V369.35A0,0,0,0,1,212,369.35Z"/>
+    <line class="cls-3" x1="512" y1="271.74" x2="512" y2="90.17"/>
+    <line class="cls-3" x1="363.3" y1="271.74" x2="363.3" y2="90.17"/>
+    <line class="cls-3" x1="660.7" y1="271.74" x2="660.7" y2="90.17"/>
+    <rect class="cls-4" x="693.48" y="470.48" width="280.13" height="206.49"/>
+  </g>
+</svg>

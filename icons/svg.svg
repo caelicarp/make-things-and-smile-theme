@@ -1,0 +1,41 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd836;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke-width: 100px;
+      }
+
+      .cls-3 {
+        stroke-width: 40px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 14px;
+      }
+    </style>
+  </defs>
+  <title>svg</title>
+  <path class="cls-1" d="M841.56,892h-660c-66.27,0-120-55.17-120-123.22V255.22c0-68.05,53.73-123.22,120-123.22h660c66.28,0,120,55.17,120,123.22V768.78C961.56,836.83,907.84,892,841.56,892Z"/>
+  <path class="cls-2" d="M267.7,633.93c0-134.68,109.18-243.86,243.86-243.86S755.42,499.25,755.42,633.93"/>
+  <rect class="cls-2" x="209.81" y="576.04" width="115.79" height="115.79" rx="57.89"/>
+  <rect class="cls-2" x="697.53" y="576.04" width="115.79" height="115.79" rx="57.89"/>
+  <line class="cls-3" x1="195.33" y1="390.07" x2="828.67" y2="390.07"/>
+  <rect class="cls-4" x="153.67" y="348.4" width="83.33" height="83.33"/>
+  <rect class="cls-4" x="787" y="348.4" width="83.33" height="83.33"/>
+</svg>
