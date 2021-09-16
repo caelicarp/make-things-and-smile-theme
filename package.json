@@ -38,8 +38,8 @@
 		"*"
 	],
 	"homepage": "https://github.com/caelicarp/make-things-and-smile-theme",
-	"icon": "./images/logo.jpg",
-	"main": "./extension.js",
+	"icon": "images/icon.jpg",
+	"main": "extension.js",
 	"contributes": {
 		"commands": [],
 		"iconThemes": [
