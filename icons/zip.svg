@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffe266;
+      }
+
+      .cls-2 {
+        fill: #848484;
+      }
+
+      .cls-3 {
+        fill: #f4f4f4;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #757575;
+        stroke-miterlimit: 10;
+        stroke-width: 80px;
+      }
+    </style>
+  </defs>
+  <title>zip</title>
+  <g id="Capa_1" data-name="Capa 1">
+    <rect class="cls-1" x="62" y="62" width="900" height="900" rx="120"/>
+    <rect class="cls-1" x="62" y="62" width="900" height="900" rx="120"/>
+  </g>
+  <g id="Capa_2" data-name="Capa 2">
+    <rect class="cls-2" x="395.78" y="62" width="232.43" height="470.52"/>
+    <rect class="cls-3" x="478.54" y="90.39" width="149.67" height="88.52"/>
+    <rect class="cls-3" x="395.59" y="236.12" width="149.67" height="88.52"/>
+    <rect class="cls-3" x="478.54" y="381.84" width="149.67" height="88.52"/>
+  </g>
+  <g id="Capa_3" data-name="Capa 3">
+    <rect class="cls-3" x="478.54" y="62" width="66.91" height="487.83"/>
+    <path class="cls-4" d="M579.85,788.25H444.15a51.37,51.37,0,0,1-51.36-51.37V601.19a51.36,51.36,0,0,1,51.36-51.36h135.7c28.36,0,51.36,23,51.36,59.92V745.44C631.21,765.25,608.21,788.25,579.85,788.25Z"/>
+  </g>
+</svg>

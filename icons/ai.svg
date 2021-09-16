@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a2508;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #ff9e1f;
+      }
+    </style>
+  </defs>
+  <title>ai</title>
+  <g id="ai">
+    <rect class="cls-1" x="62" y="62" width="900" height="900" rx="120"/>
+  </g>
+  <g id="Capa_6" data-name="Capa 6">
+    <g>
+      <path class="cls-2" d="M396.32,617.56H270.63L243.68,721h-83.2L287.33,298.23h98.44L512.63,721H422.68Zm-16.7-65L335.67,381.14h-3.81L287.33,552.52Z"/>
+      <path class="cls-2" d="M570.93,721V657.11H674.64V462H576.2V397.83H752.57V657.11h97.56V721Zm86.42-439.75c0-30.47,22-50.68,54.79-50.68s55.07,20.21,55.07,50.68S745,331.92,712.14,331.92,657.35,311.7,657.35,281.23Z"/>
+    </g>
+  </g>
+</svg>

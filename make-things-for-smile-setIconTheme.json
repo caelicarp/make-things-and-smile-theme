@@ -1,0 +1,159 @@
+{
+  "iconDefinitions": {
+    "folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "folder_open": {
+      "iconPath": "./icons/folder_open.svg"
+    },
+    "file": {
+      "iconPath": "./icons/file.svg"
+    },
+    "txt": {
+      "iconPath": "./icons/txt.svg"
+    },
+    "img": {
+      "iconPath": "./icons/img.svg"
+    },
+    "png": {
+      "iconPath": "./icons/png.svg"
+    },
+    "gif": {
+      "iconPath": "./icons/gif.svg"
+    },
+    "ai": {
+      "iconPath": "./icons/ai.svg"
+    },
+    "html": {
+      "iconPath": "./icons/html.svg"
+    },
+    "css": {
+      "iconPath": "./icons/css.svg"
+    },
+    "js": {
+      "iconPath": "./icons/js.svg"
+    },
+    "ts": {
+      "iconPath": "./icons/ts.svg"
+    },
+    "psd": {
+      "iconPath": "./icons/psd.svg"
+    },
+    "script": {
+      "iconPath": "./icons/script.svg"
+    },
+    "icon": {
+      "iconPath": "./icons/svg.svg"
+    },
+    "word": {
+      "iconPath": "./icons/word.svg"
+    },
+    "excel": {
+      "iconPath": "./icons/excel.svg"
+    },
+    "power": {
+      "iconPath": "./icons/power.svg"
+    },
+    "c": {
+      "iconPath": "./icons/c.svg"
+    },
+    "cpp": {
+      "iconPath": "./icons/cpp.svg"
+    },
+    "cs": {
+      "iconPath": "./icons/cs.svg"
+    },
+    "executable": {
+      "iconPath": "./icons/exe.svg"
+    },
+    "audio": {
+      "iconPath": "./icons/audio.svg"
+    },
+    "wav": {
+      "iconPath": "./icons/wav.svg"
+    },
+    "rar": {
+      "iconPath": "./icons/rar.svg"
+    },
+    "zip": {
+      "iconPath": "./icons/zip.svg"
+    },
+    "git": {
+      "iconPath": "./icons/git.svg"
+    },
+    "font": {
+      "iconPath": "./icons/font.svg"
+    },
+    "readme": {
+      "iconPath": "./icons/read_me.svg"
+    },
+    "binary": {
+      "iconPath": "./icons/binary.svg"
+    },
+    "json": {
+      "iconPath": "./icons/json.svg"
+    },
+    "php": {
+      "iconPath": "./icons/php.svg"
+    },
+    "java": {
+      "iconPath": "./icons/java.svg"
+    }
+  },
+
+  "file": "file",
+  "folder": "folder",
+  "folderExpanded": "folder_open",
+  "light": {
+    "folder": "folder_light",
+    "folderExpanded": "folder_open_light"
+  },
+  "fileExtensions": {
+    "txt": "txt",
+    "jpg": "img",
+    "png": "png",
+    "gif": "gif",
+    "ai": "ai",
+    "html": "html",
+    "css": "css",
+    "js": "js",
+    "ts": "ts",
+    "psd": "psd",
+    "ps1": "script",
+    "svg": "icon",
+    "docx": "word",
+    "xls": "excel",
+    "ppt": "power",
+    "c": "c",
+    "cpp": "cpp",
+    "cs": "cs",
+    "exe": "executable",
+    "mp3": "audio",
+    "wav": "wav",
+    "rar": "rar",
+    "rev": "rar",
+    "r00": "rar",
+    "r01": "rar",
+    "zip": "zip",
+    "zipx": "zip",
+    "git": "git",
+    "gitignore": "git",
+    "ttf": "font",
+    "otf": "font",
+    "eot": "font",
+    "woff": "font",
+    "woff2": "font",
+    "md": "readme",
+    "me": "readme",
+    "bin": "binary",
+    "dat": "binary",
+    "json": "json",
+    "php": "php",
+    "phtml": "php",
+    "php3": "php",
+    "php4": "php",
+    "php5": "php",
+    "phps": "php",
+    "java": "java"
+  }
+}

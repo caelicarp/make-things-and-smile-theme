@@ -1,0 +1,22 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff3e6c;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 100px;
+      }
+    </style>
+  </defs>
+  <title>gif</title>
+  <path class="cls-1" d="M841.56,892.23h-660c-66.27,0-120-55.17-120-123.22V255.45c0-68,53.73-123.22,120-123.22h660c66.28,0,120,55.17,120,123.22V769C961.56,837.06,907.84,892.23,841.56,892.23Z"/>
+  <polygon class="cls-2" points="433.3 383.48 321.29 429.72 209.27 475.96 262.61 287.59 433.3 383.48"/>
+  <circle class="cls-2" cx="433.3" cy="665.08" r="75.29"/>
+  <rect class="cls-2" x="627.35" y="355.41" width="161.6" height="161.6" transform="translate(267.82 -269.39) rotate(26.4)"/>
+</svg>
