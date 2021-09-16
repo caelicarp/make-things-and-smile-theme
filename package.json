@@ -15,6 +15,9 @@
 			"name": "Carlos Angel"
 		}
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/caelicarp/make-things-and-smile-theme",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
