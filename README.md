@@ -1,7 +1,7 @@
 # make-things-and-smile-icons README
 
 A really cool icon theme we made for you.
-![Cover](https://github.com/caelicarp/make-things-and-smile-theme/images/cover)
+![Cover](https://github.com/caelicarp/make-things-and-smile-theme/images/cover.jpg)
 
 ## Features
 - This is a colorful icon theme that tries to be simple and agreeable at the same time.
