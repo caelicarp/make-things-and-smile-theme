@@ -3,8 +3,9 @@
 A really cool icon theme we've made for you.
 
 You can message me for requests and changes at: 
-Instagram: @caecarp or @makethingsandsmile
-E-mail: caelicarp@gmail.com
+
+- Instagram: @caecarp or @makethingsandsmile
+- E-mail: caelicarp@gmail.com
 
 ![Cover](images/cover.jpg)
 
