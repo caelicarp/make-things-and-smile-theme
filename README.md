@@ -1,6 +1,11 @@
 # make-things-and-smile-icons README
 
-A really cool icon theme we made for you.
+A really cool icon theme we've made for you.
+
+You can message me for requests and changes at: 
+Instagram: @caecarp or @makethingsandsmile
+E-mail: caelicarp@gmail.com
+
 ![Cover](images/cover.jpg)
 
 ## Features
@@ -12,7 +17,7 @@ A really cool icon theme we made for you.
 Nope.
 
 ## Release Notes
-- Initial release of makeThingsAndSmile Icon Theme extension.
+- Initial release of Make Things and Smile Icon Theme extension.
 
 [1.0.0] - 16-09-2021
 ### Added

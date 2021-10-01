@@ -1,8 +1,8 @@
 {
 	"name": "make-things-and-smile-icons",
 	"displayName": "Make Things and Smile Icons",
-	"description": "A really cool icon theme we made for you.",
-	"version": "1.0.2",
+	"description": "A really cool icon theme we've made for you.",
+	"version": "1.0.3",
 	"publisher": "caelicarp",
 	"author": {
 		"email": "caelicarp@gmail.com",
@@ -23,15 +23,14 @@
 		"vscode": "^1.59.0"
 	},
 	"categories": [
-		"Themes"
+		"Themes",
+		"Other"
 	],
 	"keywords": [
 		"icons",
-		"icon-theme",
 		"themes",
-		"smile",
-		"cool",
-		"colorful"
+		"other",
+		"make things for smile"
 	],
 	"preview": false,
 	"activationEvents": [
@@ -46,7 +45,7 @@
 			{
 				"id": "make-things-and-smile",
 				"label": "Make Things and Smile Icon Theme",
-				"path": "./make-things-for-smile-setIconTheme.json"
+				"path": "./make-things-for-smile-set.json"
 			}
 		]
 	},
